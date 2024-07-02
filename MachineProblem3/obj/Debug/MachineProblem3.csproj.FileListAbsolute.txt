@@ -1,0 +1,8 @@
+E:\Feu Tech\2nd Year\3rd Sem\Game Design 1\School Activity\MachineProblem3\MachineProblem3\bin\Debug\MachineProblem3.exe.config
+E:\Feu Tech\2nd Year\3rd Sem\Game Design 1\School Activity\MachineProblem3\MachineProblem3\bin\Debug\MachineProblem3.exe
+E:\Feu Tech\2nd Year\3rd Sem\Game Design 1\School Activity\MachineProblem3\MachineProblem3\bin\Debug\MachineProblem3.pdb
+E:\Feu Tech\2nd Year\3rd Sem\Game Design 1\School Activity\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.csproj.AssemblyReference.cache
+E:\Feu Tech\2nd Year\3rd Sem\Game Design 1\School Activity\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.csproj.SuggestedBindingRedirects.cache
+E:\Feu Tech\2nd Year\3rd Sem\Game Design 1\School Activity\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.csproj.CoreCompileInputs.cache
+E:\Feu Tech\2nd Year\3rd Sem\Game Design 1\School Activity\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.exe
+E:\Feu Tech\2nd Year\3rd Sem\Game Design 1\School Activity\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.pdb
